@@ -1,5 +1,6 @@
 {
-  "name": "Git Package",
+  "name": "test-package",
+  "displayName": "Git Package",
   "version": "0.1.0",
   "description": "Dummy Git Package"
 }
